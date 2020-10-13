@@ -98,21 +98,49 @@
   </ThingDef>
 
 	<!--==============================================
+	================= Face Mask Base ====================
+	===============================================-->
+	
+  <ThingDef Name="JDSFrontierFaceMaskBase" ParentName="JDSArmorHelmetBase" Abstract="True">
+	<techLevel>Industrial</techLevel> 
+	<tradeability>Sellable</tradeability>
+	<generateCommonality>0</generateCommonality>
+	<generateAllowChance>0</generateAllowChance>		
+	<graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+	  <bodyPartGroups>
+	    <li>Eyes</li>
+	  </bodyPartGroups>
+	  <layers>
+	   <li>Overhead</li>
+	  </layers>
+	  <tags>
+		<li>MilitaryHeadgear</li>
+	  </tags>
+	  <defaultOutfitTags>
+		<li>Soldier</li>
+	  </defaultOutfitTags>
+	  <useDeflectMetalEffect>true</useDeflectMetalEffect>
+    </apparel>
+	<thingCategories Inherit="False">
+	  <li>Headgear</li>
+	</thingCategories>
+  </ThingDef>
+
+	<!--==============================================
 	================= Helmet Base ====================
 	===============================================-->
 	
   <ThingDef Name="JDSFrontierHeadgearBase" ParentName="JDSArmorHelmetBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
 	<tradeability>Sellable</tradeability>
-	<generateCommonality>3</generateCommonality>
+	<generateCommonality>0</generateCommonality>
 	<generateAllowChance>0</generateAllowChance>		
 	<graphicData>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <equippedStatOffsets>
-	  <SocialImpact>0.30</SocialImpact>
-	  <NegotiationAbility>0.10</NegotiationAbility>
-	</equippedStatOffsets>
     <apparel>
 	  <bodyPartGroups>
 	    <li>FullHead</li>
@@ -121,7 +149,7 @@
 	   <li>Overhead</li>
 	  </layers>
 	  <tags>
-		<li>...</li>
+		<li>MilitaryHeadgear</li>
 	  </tags>
 	  <defaultOutfitTags>
 		<li>Soldier</li>

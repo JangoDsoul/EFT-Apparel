@@ -2,7 +2,7 @@
 <Defs>
 
 	<!--==============================================
-	============ Module-3M Armor ===============
+	=============== Module-3M Armor ==================
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierArmorVestBase">
@@ -29,12 +29,12 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.10</MoveSpeed>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
 	</equippedStatOffsets>
   </ThingDef> 
 
 	<!--==============================================
-	=============== PACA Soft Armor =================
+	=============== PACA Soft Armor ==================
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierArmorVestBase">
@@ -62,7 +62,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.10</MoveSpeed>  
+	  <MoveSpeed>-0.40</MoveSpeed>	  
 	</equippedStatOffsets>	
   </ThingDef> 
 
@@ -94,7 +94,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.10</MoveSpeed>  
+	  <MoveSpeed>-0.40</MoveSpeed>	 
 	</equippedStatOffsets>	
   </ThingDef> 
 
@@ -126,7 +126,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.10</MoveSpeed>  
+	  <MoveSpeed>-0.40</MoveSpeed>	 
 	</equippedStatOffsets>	
   </ThingDef> 
 
@@ -158,7 +158,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.10</MoveSpeed>	  
+	  <MoveSpeed>-0.40</MoveSpeed>	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -193,7 +193,7 @@
 	  <EquipDelay>4</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.15</MoveSpeed> 	  
+	  <MoveSpeed>-0.58</MoveSpeed> 	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -226,7 +226,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.15</MoveSpeed> 	  
+	  <MoveSpeed>-0.55</MoveSpeed> 	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -258,7 +258,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.15</MoveSpeed>
+	  <MoveSpeed>-0.50</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>
   </ThingDef> 
@@ -294,7 +294,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.25</MoveSpeed>
+	  <MoveSpeed>-0.85</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>		
   </ThingDef> 
@@ -330,7 +330,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.25</MoveSpeed>
+	  <MoveSpeed>-0.85</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>	
   </ThingDef> 
@@ -366,7 +366,7 @@
 	  <EquipDelay>4</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.35</MoveSpeed>
+	  <MoveSpeed>-0.86</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>
   </ThingDef> 
@@ -402,7 +402,7 @@
 	  <EquipDelay>4</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.35</MoveSpeed>
+	  <MoveSpeed>-0.90</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>
   </ThingDef> 
@@ -439,7 +439,7 @@
 	  <EquipDelay>5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>
+	  <MoveSpeed>-0.90</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>
   </ThingDef> 
@@ -472,7 +472,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.17</MoveSpeed>
+	  <MoveSpeed>-0.90</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>	
   </ThingDef> 
@@ -509,7 +509,7 @@
 	  <EquipDelay>5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>
+	  <MoveSpeed>-0.95</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>		
   </ThingDef> 
@@ -547,7 +547,7 @@
 	  <EquipDelay>4</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.45</MoveSpeed>
+	  <MoveSpeed>-0.95</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>
   </ThingDef> 
@@ -585,7 +585,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.50</MoveSpeed>
+	  <MoveSpeed>-0.95</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>
   </ThingDef> 
@@ -622,7 +622,7 @@
 	  <EquipDelay>5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.50</MoveSpeed>
+	  <MoveSpeed>-1.00</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>
   </ThingDef> 
@@ -655,7 +655,7 @@
 	  <EquipDelay>3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.15</MoveSpeed>
+	  <MoveSpeed>-0.50</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  	  
 	</equippedStatOffsets>
   </ThingDef>  
@@ -693,7 +693,7 @@
       <EquipDelay>5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.50</MoveSpeed>
+	  <MoveSpeed>-1.20</MoveSpeed>
       <PainShockThreshold>0.80</PainShockThreshold>	  
 	</equippedStatOffsets>
   </ThingDef>  
