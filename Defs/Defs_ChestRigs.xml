@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--==============================================
+	================ 6B5-16 Zh-86 ====================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_6B5-16_Zh-86_rig</defName>
+	<label>6B5-16 Zh-86 "Uley" Armored Rig</label> 
+	<description>The bulletproof vest 6B5 was adopted by the armed forces of the USSR in 1986. Option 6B5-16 is designed to protect against fragments and bullets of fire arms (3rd class protection, titanium).</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/6B5-16_Zh-86/6B5-16_Zh-86_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/6B5-16_Zh-86/6B5-16_Zh-86</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+
+	<!--==============================================
+	=============== 6B3TM-01M ==================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_6B3TM-01M</defName>
+	<label>6B3TM-01M Armored Rig</label> 
+	<description>Modified general army body armor 6B3 under the index 6B3TM-01M. Actively used during the war in Afghanistan.</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/6B3TM-01M/6B3TM-01M_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/6B3TM-01M/6B3TM-01M</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>	
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+  
+	<!--==============================================
+	=============== 6B5-15 Zh-86 ==================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_6B5-15_Zh-86_rig</defName>
+	<label>6B5-15 Zh-86 "Uley" Armored Rig</label> 
+	<description>The bulletproof vest 6B5 was adopted by the armed forces of the USSR in 1986. Option 6B5-15 is designed for assault units.</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/6B5-15_Zh-86/6B5-15_Zh-86_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/6B5-15_Zh-86/6B5-15_Zh-86</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>	 
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+
+	<!--==============================================
+	=============== ANA Tactical M2 ==================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_ANA_Tactical_M2_rig</defName>
+	<label>ANA Tactical M2 Armored Rig</label> 
+	<description>The vest is created with the use of the best experience of Russian special forces operators. The versatility of the system makes it possible to use this vest both when carrying out city tasks and when performing tasks on rough terrain.</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/ANA_Tactical_M2/ANA_Tactical_M2_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/ANA_Tactical_M2/ANA_Tactical_M2</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+
+	<!--==============================================
+	=============== ANA Tactical M1 ==================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_ANA_Tactical_M1_rig</defName>
+	<label>ANA Tactical M1 Armored rig</label> 
+	<description>The vest is created with the use of the best experience of Russian special forces operators. The versatility of the system makes it possible to use this vest both when carrying out city tasks and when performing tasks on rough terrain.</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/ANA_Tactical_M1/ANA_Tactical_M1_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/ANA_Tactical_M1/ANA_Tactical_M1</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>	
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+
+	<!--==============================================
+	=============== Crye Precision AVS ==================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_Crye_Precision_AVS</defName>
+	<label>Crye Precision AVS Platecarrier</label> 
+	<description>Crye Precision AVS rig equipped with light armored plates from combined materials. One of the most comfortable to wear plate-carrier.</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/Crye_Precision_AVS/Crye_Precision_AVS_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/Crye_Precision_AVS/Crye_Precision_AVS</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>	
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+
+	<!--==============================================
+	=============== Ars Arma A18 Skanda ==================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_Ars_Arma_A18_Skanda</defName>
+	<label>Ars Arma A18 Skanda Plate Carrier</label> 
+	<description>Plate carrier with armor plates (class 4) with chest and back protection only. And is equipped with a set of pouches.</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/Ars_Arma_A18_Skanda/Ars_Arma_A18_Skanda_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/Ars_Arma_A18_Skanda/Ars_Arma_A18_Skanda</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+
+	<!--==============================================
+	=============== Wartech_TV-110 ==================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_Wartech_TV-110_rig</defName>
+	<label>Wartech TV-110 Plate Carrier</label> 
+	<description>Plate carrier with armor plates made of armored steel (class 4) with chest and back protection only. And is equipped with set of pouches.</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/Wartech_TV-110/Wartech_TV-110_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/Wartech_TV-110/Wartech_TV-110</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+
+	<!--==============================================
+	=============== 5.11 Tactec plate carrier ==================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_5_11_Tactec_plate_carrier</defName>
+	<label>5.11 Tactec Plate Carrier</label> 
+	<description>Plate carrier with armor plates made of polyethylene (class 5) and a set of pouches for work with assault rifles.</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/5_11_Tactec_plate_carrier/5_11_Tactec_plate_carrier_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/5_11_Tactec_plate_carrier/5_11_Tactec_plate_carrier</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+
+	<!--==============================================
+	=============== Ars Arma CPC MOD.2 ==================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierChestRigBase">
+	<defName>JDSTarkov_Ars_Arma_CPC_MOD_2_rig</defName>
+	<label>Ars Arma CPC MOD.2 Plate Carrier</label> 
+	<description>The second generation of modification of the CPC body armor designed by Crye Precision and adapted by Ars Arms for use by special forces of the Russian Federation. This modular body armor is based on a polymer corset that fits the body, which avoids the backlash of the body arm during active movement and also contributes to a more even distribution of weight.</description>	
+    <graphicData>
+	  <texPath>Things/ChestRigs/Ars_Arma_CPC_MOD_2/Ars_Arma_CPC_MOD_2_UI</texPath>
+    </graphicData>
+	<apparel>
+	  <wornGraphicPath>Things/ChestRigs/Ars_Arma_CPC_MOD_2/Ars_Arma_CPC_MOD_2</wornGraphicPath>
+	  <tags>
+		<li></li>
+	  </tags>
+	  <layers>
+		<li>Middle</li>			
+	  </layers>	  
+    </apparel>
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>8</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
+	  <Insulation_Cold>6</Insulation_Cold>
+	  <Insulation_Heat>10</Insulation_Heat>
+	  <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	  <MoveSpeed>-0.40</MoveSpeed>	 
+	</equippedStatOffsets>
+  </ThingDef> 
+
+</Defs>

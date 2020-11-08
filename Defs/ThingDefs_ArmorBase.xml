@@ -98,7 +98,7 @@
   </ThingDef>
 
 	<!--==============================================
-	================= Face Mask Base ====================
+	=============== Face Mask Base ===================
 	===============================================-->
 	
   <ThingDef Name="JDSFrontierFaceMaskBase" ParentName="JDSArmorHelmetBase" Abstract="True">
@@ -186,6 +186,39 @@
 	  </bodyPartGroups>
 	  <layers>
 		<li>Middle</li>			
+	  </layers>
+	  <tags>
+		<li>MilitaryArmor</li>
+	  </tags>
+	  <defaultOutfitTags>
+		<li>Soldier</li>
+	  </defaultOutfitTags>
+		<useDeflectMetalEffect>true</useDeflectMetalEffect>
+	</apparel>
+	<thingCategories Inherit="False">
+	  <li>ApparelArmor</li>
+	</thingCategories>
+  </ThingDef>
+
+	<!--==============================================
+	=============== Chest Rigs Base ==================
+	===============================================-->
+	
+  <ThingDef Name="JDSFrontierChestRigBase" ParentName="JDSApparelBase" Abstract="True">
+	<techLevel>Industrial</techLevel> 
+	<tradeability>Sellable</tradeability>
+	<generateCommonality>0</generateCommonality>
+	<generateAllowChance>0</generateAllowChance>
+	<graphicData>
+      <graphicClass>Graphic_Single</graphicClass>	
+    </graphicData>	
+    <apparel>
+	  <bodyPartGroups>
+		<li>Torso</li>	
+		<li>Shoulders</li>
+	  </bodyPartGroups>
+	  <layers>
+		<li>Shell</li>			
 	  </layers>
 	  <tags>
 		<li>MilitaryArmor</li>
