@@ -224,7 +224,7 @@
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headgear_PSH-97_Djeta_Helmet_UI</defName>
-	<label>PSH-97 "Djeta" helmet</label>
+	<label>PSH-97 "Djeta" Helmet</label>
 	<description>"Firefighter helmet is an individual means of fire protection and is designed to ensure the protection of the firefighter's head from exposure to elevated temperatures, mechanical shocks."</description>
 	<graphicData>
       <texPath>Things/Headgear/PSH-97_Djeta_Helmet/PSH-97_Djeta_Helmet_UI</texPath>
@@ -255,7 +255,7 @@
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headgear_PSH-97_Djeta_Helmet_Shield_UI</defName>
-	<label>PSH-97 "Djeta" helmet</label>
+	<label>PSH-97 "Djeta" Helmet(Visor)</label>
 	<description>"Firefighter helmet is an individual means of fire protection and is designed to ensure the protection of the firefighter's head from exposure to elevated temperatures, mechanical shocks."</description>
 	<graphicData>
       <texPath>Things/Headgear/PSH-97_Djeta_Helmet_Shield/PSH-97_Djeta_Helmet_Shield_UI</texPath>
@@ -715,12 +715,12 @@
   </ThingDef>    
 
 	<!--==============================================
-	========= ZSh-1-2M Helmet (face shield) ===========
+	========= ZSh-1-2M Helmet (Visor) ===========
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headgear_ZSh-1-2M_Helmet_Shield</defName>
-	<label>ZSh-1-2M Helmet(Face Shield)</label>
+	<label>ZSh-1-2M Helmet(Visor)</label>
 	<description>"Helmet ZSh-1-2M consists of a durable alloy, covered from the inside by aramid fabrics, which does not allow to penetrate the protective layer and absorbs the dynamic impact of bullets or shrapnel."</description>
 	<graphicData>
       <texPath>Things/Headgear/ZSh-1-2M_Helmet_Shield/ZSh-1-2M_Helmet_Shield_UI</texPath>
@@ -964,12 +964,12 @@
   </ThingDef>  
 
 	<!--==============================================
-	========= Maska 1Sch helmet (Visor)===========
+	========= Maska 1Sch helmet (Face Shield)===========
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headgear_Maska_1Sch_Helmet_Shield</defName>
-	<label>Maska 1Sch Helmet(Visor)</label>
+	<label>Maska 1Sch Helmet(Face Shield)</label>
 	<description>"Protective helmet "Maska-1" appeared in service in 1991, as a replacement for the "Sphere" helmet."</description>
 	<graphicData>
       <texPath>Things/Headgear/Maska_1Sch_Helmet_Shield/Maska_1Sch_Helmet_Shield_UI</texPath>
@@ -1026,12 +1026,12 @@
   </ThingDef>   
 
 	<!--==============================================
-	========= Altyn Helmet (Visor) ===========
+	========= Altyn Helmet (Face Shield) ===========
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headgear_Altyn_Helmet_Shield</defName>
-	<label>Altyn Helmet(Visor)</label>
+	<label>Altyn Helmet(Face Shield)</label>
 	<description>"Altyn" passed real combat tests in Afghanistan and Chechnya and is still in service with the Ministry of Internal Affairs of the Russian Federation and the army special forces. The installation of an armored visor shield is possible.</description>
 	<graphicData>
       <texPath>Things/Headgear/Altyn_Helmet_Shield/Altyn_Helmet_Shield_UI</texPath>
