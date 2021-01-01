@@ -2,37 +2,6 @@
 <Defs>
 
 	<!--==============================================
-	=============== Balaclave==================
-	===============================================-->	
-
-  <ThingDef ParentName="JDSFrontierFaceMaskBase">
-	<defName>JDSTarkov_Headgear_Balaclava</defName>
-	<label>Balaclava</label>
-	<description>"A non-ballistic replica of the Ops-Core Fast helmet from Tac-Kek."</description>
-	<graphicData>
-      <texPath>Things/FaceMask/Balaclava/Balaclava_UI</texPath>
-    </graphicData>
-    <apparel>
-	  <wornGraphicPath>Things/FaceMask/Balaclava/Balaclava</wornGraphicPath>
-	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
-	  </tags>
-    </apparel>	
-    <statBases>
-	  <MaxHitPoints>150</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
-    </statBases>
-    <equippedStatOffsets>
-	</equippedStatOffsets>	
-  </ThingDef>
-
-	<!--==============================================
 	=============== Tac-Kek Fast MT ==================
 	===============================================-->	
 
@@ -46,7 +15,38 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Tac-Kek_Fast_MT/Tac-Kek_Fast_MT</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>
+
+	<!--==============================================
+	============ Tac-Kek Fast MT Mando ===============
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Tac-Kek_Fast_MT_Mando</defName>
+	<label>Tac-Kek Fast MT Mando</label>
+	<description>"A non-ballistic replica of the Ops-Core Fast helmet from Tac-Kek."</description>
+	<graphicData>
+      <texPath>Things/Headgear/Tac-Kek_Fast_MT_Mando/Tac-Kek_Fast_MT_Mando_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Tac-Kek_Fast_MT_Mando/Tac-Kek_Fast_MT_Mando</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -70,14 +70,14 @@
   <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headgear_Soft_Tank_Crew</defName>
 	<label>Soft Tank Crew</label>
-	<description>"A non-ballistic replica of the Ops-Core Fast helmet from Tac-Kek."</description>
+	<description>"Tank headset TSh-4M-L (Z) -01 is designed to provide two-way radiotelephone communication in objects with a high level of noise, to protect it from climatic factors and from impacts on structural elements of objects."</description>
 	<graphicData>
       <texPath>Things/Headgear/Soft_Tank_Crew/Soft_Tank_Crew_UI</texPath>
     </graphicData>
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Soft_Tank_Crew/Soft_Tank_Crew</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>...</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -139,7 +139,7 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Kolpak-1S_Riot_Helmet_Shield/Kolpak-1S_Riot_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>...</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -170,7 +170,7 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/SHPM_Firefighter_Helmet/SHPM_Firefighter_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>...</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -201,7 +201,7 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/SHPM_Firefighter_Helmet_Shield/SHPM_Firefighter_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>...</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -232,7 +232,7 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/PSH-97_Djeta_Helmet/PSH-97_Djeta_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>...</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -316,7 +316,7 @@
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
-	<defName>JDSTarkov_Headgear_</defName>
+	<defName>JDSTarkov_Headgear_Ratnik-BSh_Helmet</defName>
 	<label>6B47 Ratnik-BSh Helmet</label>
 	<description>"Main Ballistic helmet of a Russian army. Comes in green and with flora digital cover."</description>
 	<graphicData>
@@ -715,7 +715,7 @@
   </ThingDef>    
 
 	<!--==============================================
-	========= ZSh-1-2M Helmet (Visor) ===========
+	========= ZSh-1-2M Helmet (Shield) ===========
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -808,7 +808,7 @@
   </ThingDef>    
 
 	<!--==============================================
-	========= Ops-Core Fast MT Helmet (Visor) ===========
+	======= Ops-Core Fast MT Helmet (Visor) ==========
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -838,6 +838,129 @@
 	</equippedStatOffsets>	
   </ThingDef>    
 
+	<!--==============================================
+	========= Ops-Core Fast MT Helmet Mando ==========
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Ops-Core_Fast_MT_Mando</defName>
+	<label>Ops-Core Fast MT Mando Helmet</label>
+	<description>"Ops-Core Fast ballistic helmet is popular in special forces all around the world. Can be modified with different components. Comes in black and tan."</description>
+	<graphicData>
+      <texPath>Things/Headgear/Ops-Core_Fast_MT_Mando/Ops-Core_Fast_MT_Mando_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Mando/Ops-Core_Fast_MT_Mando</wornGraphicPath>
+	  <tags>
+		<li>ExiledDawn_Casque_Helmet</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>70</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>    
+
+	<!--==============================================
+	========= Ops-Core Fast MT Mod Helmet ==========
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Ops-Core_Fast_mod_MT</defName>
+	<label>Ops-Core Fast MT Mod Helmet</label>
+	<description>"Ops-Core Fast ballistic helmet is popular in special forces all around the world. Can be modified with different components. Comes in black and tan."</description>
+	<graphicData>
+      <texPath>Things/Headgear/Ops-Core_Fast_MT_Mod_Helmet/Ops-Core_Fast_MT_Mod_Helmet_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Mod_Helmet/Ops-Core_Fast_MT_Mod_Helmet</wornGraphicPath>
+	  <tags>
+		<li>ExiledDawn_Casque_Helmet</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>70</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>    
+
+	<!--==============================================
+	========= Ops-Core Fast MT Full Helmet ==========
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Ops-Core_Fast_Full_MT</defName>
+	<label>Ops-Core Fast MT Full Helmet</label>
+	<description>"Ops-Core Fast ballistic helmet is popular in special forces all around the world. Can be modified with different components. Comes in black and tan."</description>
+	<graphicData>
+      <texPath>Things/Headgear/Ops-Core_Fast_MT_Full_Helmet/Ops-Core_Fast_MT_Full_Helmet_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Full_Helmet/Ops-Core_Fast_MT_Full_Helmet</wornGraphicPath>
+	  <tags>
+		<li>ExiledDawn_Casque_Helmet</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>70</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef> 
+
+	<!--==============================================
+	========= Ops-Core Fast MT Tan Helmet ==========
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Ops-Core_Fast_MT_Ten</defName>
+	<label>Ops-Core Fast MT Mod Helmet</label>
+	<description>"Ops-Core Fast ballistic helmet is popular in special forces all around the world. Can be modified with different components. Comes in black and tan."</description>
+	<graphicData>
+      <texPath>Things/Headgear/Ops-Core_Fast_MT_Tan_Helmet/Ops-Core_Fast_MT_Tan_Helmet_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Tan_Helmet/Ops-Core_Fast_MT_Tan_Helmet</wornGraphicPath>
+	  <tags>
+		<li>ExiledDawn_Casque_Helmet</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>70</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef> 
 
 	<!--==============================================
 	========= BNTI LSHZ-2DTM Helmet ===========
@@ -933,7 +1056,7 @@
   </ThingDef>    
 
 	<!--==============================================
-	========= Maska 1Sch helmet ===========
+	============= Maska 1Sch helmet ==================
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -964,7 +1087,7 @@
   </ThingDef>  
 
 	<!--==============================================
-	========= Maska 1Sch helmet (Face Shield)===========
+	======== Maska 1Sch helmet (Face Shield)==========
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -995,7 +1118,38 @@
   </ThingDef>    
 
 	<!--==============================================
-	========= Altyn Helmet  ===========
+	======= Maska 1Sch helmet (Face Shield Up) =======
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Maska_1Sch_Helmet_Shieldup</defName>
+	<label>Maska 1Sch Helmet(Face Shield)</label>
+	<description>"Protective helmet "Maska-1" appeared in service in 1991, as a replacement for the "Sphere" helmet."</description>
+	<graphicData>
+      <texPath>Things/Headgear/Maska_1Sch_up_Helmet_Shield/Maska_1Sch_up_Helmet_Shield_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Maska_1Sch_up_Helmet_Shield/Maska_1Sch_up_Helmet_Shield</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>110</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>    
+
+	<!--==============================================
+	================= Altyn Helmet  ==================
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -1026,7 +1180,7 @@
   </ThingDef>   
 
 	<!--==============================================
-	========= Altyn Helmet (Face Shield) ===========
+	========== Altyn Helmet (Face Shield) ============
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -1056,9 +1210,132 @@
 	</equippedStatOffsets>	
   </ThingDef>      
   
+	<!--==============================================
+	======== Altyn Helmet (Face Shield Up) ===========
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Altyn_Helmet_Shieldup</defName>
+	<label>Altyn Helmet(Face Shield Up)</label>
+	<description>"Altyn" passed real combat tests in Afghanistan and Chechnya and is still in service with the Ministry of Internal Affairs of the Russian Federation and the army special forces. The installation of an armored visor shield is possible.</description>
+	<graphicData>
+      <texPath>Things/Headgear/Altyn_up_Helmet_Shield/Altyn_up_Helmet_Shield_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Altyn_up_Helmet_Shield/Altyn_up_Helmet_Shield</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>120</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>        
   
 	<!--==============================================
-	========= Vulkan-5 heavy Helmet ===========
+	================= Rys-T Helmet ===================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Rys-T_Helme</defName>
+	<label>Rys-T Helmet</label>
+	<description>"The "Rys-T" (Lynx-T) armored helmet is an improved and lightweight version of the famous Altyn helmet. It is in service with the assault units of the Ministry of Internal Affairs of Russia. Installation of an special armored visor is possible."</description>
+	<graphicData>
+      <texPath>Things/Headgear/Rys-T_Helmet/Rys-T_Helmet_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Rys-T_Helmet/Rys-T_Helmet</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>120</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>          
+  
+	<!--==============================================
+	========== Rys-T Helmet (Face Shield) ============
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Rys-T_Helmet_Shield</defName>
+	<label>Rys-T Helmet(Face Shield)</label>
+	<description>"The "Rys-T" (Lynx-T) armored helmet is an improved and lightweight version of the famous Altyn helmet. It is in service with the assault units of the Ministry of Internal Affairs of Russia. Installation of an special armored visor is possible."</description>
+	<graphicData>
+      <texPath>Things/Headgear/Rys-T_Helmet_Shield/Rys-T_Helmet_Shield_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Rys-T_Helmet_Shield/Rys-T_Helmet_Shield</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>120</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>        
+  
+	<!--==============================================
+	======== Rys-T Helmet up (Face Shield) ===========
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
+	<defName>JDSTarkov_Headgear_Rys-T_Helmet_up_Shield</defName>
+	<label>Rys-T Helmet(Face Shield Up)</label>
+	<description>"The "Rys-T" (Lynx-T) armored helmet is an improved and lightweight version of the famous Altyn helmet. It is in service with the assault units of the Ministry of Internal Affairs of Russia. Installation of an special armored visor is possible."</description>
+	<graphicData>
+      <texPath>Things/Headgear/Rys-T_Helmet_up_Shield/Rys-T_Helmet_up_Shield_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headgear/Rys-T_Helmet_up_Shield/Rys-T_Helmet_up_Shield</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>120</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>        
+  
+	<!--==============================================
+	============= Vulkan-5 heavy Helmet ==============
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -1089,7 +1366,7 @@
   </ThingDef>   
   
 	<!--==============================================
-	========= Vulkan-5 heavy Helmet (Visor) ===========
+	========= Vulkan-5 heavy Helmet (Visor) ==========
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">

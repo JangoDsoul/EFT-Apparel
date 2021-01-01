@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!--==============================================
+	================== Balaclave =====================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Balaclava</defName>
+	<label>Balaclava</label>
+	<description>"A balaclava, also known as a balaclava helmet or Bally or ski mask, is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth."</description>
+	<graphicData>
+      <texPath>Things/FaceMask/Balaclava/Balaclava_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/FaceMask/Balaclava/Balaclava</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>
+  
+	<!--==============================================
+	================= Balaclave2 =====================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Balaclava2_Mask</defName>
+	<label>Balaclava</label>
+	<description>"A balaclava, also known as a balaclava helmet or Bally or ski mask, is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth."</description>
+	<graphicData>
+      <texPath>Things/FaceMask/Balaclava2_Mask/Balaclava2_Mask_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/FaceMask/Balaclava2_Mask/Balaclava2_Mask</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>  
+  
+	<!--==============================================
+	================= Balaclave3 =====================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Balaclava3_Mask</defName>
+	<label>Balaclava</label>
+	<description>"A balaclava, also known as a balaclava helmet or Bally or ski mask, is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth."</description>
+	<graphicData>
+      <texPath>Things/FaceMask/Balaclava3_Mask/Balaclava3_Mask_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/FaceMask/Balaclava3_Mask/Balaclava3_Mask</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>    
+  
+	<!--==============================================
+	================= Balaclave4 =====================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Balaclava4_Mask</defName>
+	<label>Balaclava</label>
+	<description>"A balaclava, also known as a balaclava helmet or Bally or ski mask, is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth."</description>
+	<graphicData>
+      <texPath>Things/FaceMask/Balaclava4_Mask/Balaclava4_Mask_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/FaceMask/Balaclava4_Mask/Balaclava4_Mask</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>    
+
+	<!--==============================================
+	================= Balaclave5 =====================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Balaclava5_Mask</defName>
+	<label>Balaclava</label>
+	<description>"A balaclava, also known as a balaclava helmet or Bally or ski mask, is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth."</description>
+	<graphicData>
+      <texPath>Things/FaceMask/Balaclava5_Mask/Balaclava5_Mask_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/FaceMask/Balaclava5_Mask/Balaclava5_Mask</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>    
+  
+	<!--==============================================
+	================= Balaclave6 =====================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Balaclava6_Mask</defName>
+	<label>Balaclava</label>
+	<description>"A balaclava, also known as a balaclava helmet or Bally or ski mask, is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth."</description>
+	<graphicData>
+      <texPath>Things/FaceMask/Balaclava6_Mask/Balaclava6_Mask_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/FaceMask/Balaclava6_Mask/Balaclava6_Mask</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>      
+  
+	<!--==============================================
+	================= Balaclave7 =====================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Balaclava7_Mask</defName>
+	<label>Balaclava</label>
+	<description>"A balaclava, also known as a balaclava helmet or Bally or ski mask, is a form of cloth headgear designed to expose only part of the face, usually the eyes and mouth."</description>
+	<graphicData>
+      <texPath>Things/FaceMask/Balaclava7_Mask/Balaclava7_Mask_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/FaceMask/Balaclava7_Mask/Balaclava7_Mask</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>        
+  
+	<!--==============================================
+	================= Army Cap =====================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Army_Cap</defName>
+	<label>Army Cap</label>
+	<description>"Military cap."</description>
+	<graphicData>
+      <texPath>Things/Headwear/Army_Cap/Army_Cap_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headwear/Army_Cap/Army_Cap</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>     
+  
+	<!--==============================================
+	============= Baseball_Cap_Black =================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Baseball_Cap_Black</defName>
+	<label>Baseball Cap (Black)</label>
+	<description>"baseball cap."</description>
+	<graphicData>
+      <texPath>Things/Headwear/Baseball_Cap_Black/Baseball_Cap_Black_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headwear/Baseball_Cap_Black/Baseball_Cap_Black</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>     
+  
+	<!--==============================================
+	============= Baseball_Cap_Green =================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Baseball_Cap_Green</defName>
+	<label>Baseball Cap (Green)</label>
+	<description>"baseball cap."</description>
+	<graphicData>
+      <texPath>Things/Headwear/Baseball_Cap_Green/Baseball_Cap_Green_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headwear/Baseball_Cap_Green/Baseball_Cap_Green</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>       
+  
+	<!--==============================================
+	============= Baseball_Cap_Tan =================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Baseball_Cap_Tan</defName>
+	<label>Baseball Cap (Tan)</label>
+	<description>"baseball cap."</description>
+	<graphicData>
+      <texPath>Things/Headwear/Baseball_Cap_Ten/Baseball_Cap_Tan_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headwear/Baseball_Cap_Ten/Baseball_Cap_Tan</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>   
+  
+	<!--==============================================
+	============= Beanie =================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Beanie</defName>
+	<label>Beanie</label>
+	<description>"Warm knitted hat, traditionally made for skiers but worn by everyone."</description>
+	<graphicData>
+      <texPath>Things/Headwear/Beanie/Beanie_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headwear/Beanie/Beanie</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>     
+  
+	<!--==============================================
+	============= Ushanka_Cap =================
+	===============================================-->	
+
+  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+	<defName>JDSTarkov_Headwear_Ushanka_Cap</defName>
+	<label>Ushanka Cap</label>
+	<description>"A classic headdress of a Russian person, as most people from other countries think."</description>
+	<graphicData>
+      <texPath>Things/Headwear/Ushanka_Cap/Ushanka_Cap_UI</texPath>
+    </graphicData>
+    <apparel>
+	  <wornGraphicPath>Things/Headwear/Ushanka_Cap/Ushanka_Cap</wornGraphicPath>
+	  <tags>
+		<li>...</li>			
+	  </tags>
+    </apparel>	
+    <statBases>
+	  <MaxHitPoints>150</MaxHitPoints>
+	  <Mass>2</Mass>
+	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
+	  <Insulation_Cold>5</Insulation_Cold>
+	  <Insulation_Heat>8</Insulation_Heat>
+	  <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+	</equippedStatOffsets>	
+  </ThingDef>       
+  
+</Defs>

@@ -56,7 +56,7 @@
     </recipeMaker>	
     <costList>
       <WoodLog>1</WoodLog>
-    </costList>	
+    </costList>
   </ThingDef>
 
   <!--ThingDef Name="ApparelMakeableBase" ParentName="ApparelBase" Abstract="True">
@@ -231,6 +231,47 @@
 	<thingCategories Inherit="False">
 	  <li>ApparelArmor</li>
 	</thingCategories>
+  </ThingDef>
+
+	<!--==============================================
+	================ Backpack Base ===================
+	===============================================-->
+
+  <ThingDef Name="JDSFrontierBackpackBase" ParentName="JDSApparelBase" Abstract="True">
+	<techLevel>Industrial</techLevel> 
+	<tradeability>Sellable</tradeability>
+	<generateCommonality>0</generateCommonality>
+	<generateAllowChance>0</generateAllowChance>  
+	<resourceReadoutPriority>Middle</resourceReadoutPriority>	
+	<graphicData>
+      <graphicClass>Graphic_Single</graphicClass>	
+    </graphicData>		
+    <apparel>
+      <wornGraphicData>
+        <renderUtilityAsPack>true</renderUtilityAsPack>	
+      </wornGraphicData>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <careIfDamaged>false</careIfDamaged>
+      <wearPerDay>0</wearPerDay>
+      <bodyPartGroups>
+        <li>Waist</li>
+      </bodyPartGroups>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <tags>
+        <li>MilitaryBackpack</li>
+      </tags>
+	  	  <defaultOutfitTags>
+		<li>Soldier</li>
+	  </defaultOutfitTags>
+    </apparel>
+    <tradeTags>
+      <li>Backpack</li>
+    </tradeTags>
+    <thingCategories Inherit="False">
+      <li>ApparelUtility</li>
+    </thingCategories>	
   </ThingDef>
 
 </Defs>
