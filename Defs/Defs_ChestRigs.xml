@@ -15,24 +15,28 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/6B5-16_Zh-86/6B5-16_Zh-86</wornGraphicPath>
 	  <tags>
-		<li></li>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ArmorClass3</li>		
 	  </tags>
 	  <layers>
 		<li>Middle</li>			
 	  </layers>	  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
+	  <MarketValue>300</MarketValue>	
+	  <MaxHitPoints>80</MaxHitPoints>
+	  <Mass>7.1</Mass>
 	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <ArmorRating_Blunt>0.38</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.15</ArmorRating_Heat>
+	  <Insulation_Cold>0.02</Insulation_Cold>
+	  <Insulation_Heat>0.15</Insulation_Heat>
+	  <EquipDelay>1.3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.12</ShootingAccuracyPawn>	
+	  <MoveSpeed>-0.09</MoveSpeed>	 
+	  <CarryingCapacity>3</CarryingCapacity>
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -50,24 +54,29 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/6B3TM-01M/6B3TM-01M</wornGraphicPath>
 	  <tags>
-		<li></li>
+	  	<li>EFT_ChestRig</li>
+		<li>EFT_ArmorClass4</li>		
+		<li>EFT_ScavsGear</li>			
 	  </tags>	
 	  <layers>
 		<li>Middle</li>			
 	  </layers>	  
     </apparel>
     <statBases>
+	  <MarketValue>352</MarketValue>
 	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
+	  <Mass>9.2</Mass>
 	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <ArmorRating_Blunt>0.38</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.15</ArmorRating_Heat>
+	  <Insulation_Cold>0.02</Insulation_Cold>
+	  <Insulation_Heat>0.15</Insulation_Heat>
+	  <EquipDelay>1.3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.15</ShootingAccuracyPawn>	
+	  <MoveSpeed>-0.10</MoveSpeed>	 
+	  <CarryingCapacity>4</CarryingCapacity>	  
 	</equippedStatOffsets>
   </ThingDef> 
   
@@ -85,6 +94,9 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/6B5-15_Zh-86/6B5-15_Zh-86</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ArmorClass4</li>			
+		<li>EFT_ScavsGear</li>		
 		<li></li>
 	  </tags>	 
 	  <layers>
@@ -92,17 +104,20 @@
 	  </layers>	  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>401</MarketValue>	
+	  <MaxHitPoints>50</MaxHitPoints>
+	  <Mass>12.2</Mass>
+	  <ArmorRating_Sharp>0.76</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.41</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.25</ArmorRating_Heat>
+	  <Insulation_Cold>0.02</Insulation_Cold>
+	  <Insulation_Heat>0.10</Insulation_Heat>
+	  <EquipDelay>1.3</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.12</ShootingAccuracyPawn>
+	  <MoveSpeed>-0.14</MoveSpeed>	 
+	  <CarryingCapacity>4</CarryingCapacity>	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -120,24 +135,29 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/ANA_Tactical_M2/ANA_Tactical_M2</wornGraphicPath>
 	  <tags>
-		<li></li>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ArmorClass4</li>			
+		<li>EFT_ScavsRaiderGear</li>		
 	  </tags>
 	  <layers>
 		<li>Middle</li>			
 	  </layers>	  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>437</MarketValue>	
+	  <MaxHitPoints>60</MaxHitPoints>
+	  <Mass>7</Mass>
+	  <ArmorRating_Sharp>0.84</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.42</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.25</ArmorRating_Heat>
+	  <Insulation_Cold>0.02</Insulation_Cold>
+	  <Insulation_Heat>0.15</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.02</ShootingAccuracyPawn>
+	  <MoveSpeed>-0.08</MoveSpeed>
+	  <CarryingCapacity>4</CarryingCapacity>	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -155,24 +175,28 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/ANA_Tactical_M1/ANA_Tactical_M1</wornGraphicPath>
 	  <tags>
-		<li></li>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ArmorClass4</li>			
 	  </tags>	
 	  <layers>
 		<li>Middle</li>			
 	  </layers>	  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>462</MarketValue>	
+	  <MaxHitPoints>65</MaxHitPoints>
+	  <Mass>8.3</Mass>
+	  <ArmorRating_Sharp>0.89</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.43</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.25</ArmorRating_Heat>
+	  <Insulation_Cold>0.20</Insulation_Cold>
+	  <Insulation_Heat>0.15</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>	
+	  <MoveSpeed>-0.10</MoveSpeed>	 
+	  <CarryingCapacity>4</CarryingCapacity>	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -190,24 +214,29 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Crye_Precision_AVS/Crye_Precision_AVS</wornGraphicPath>
 	  <tags>
-		<li></li>
+		<li>EFT_ChestRig</li>		
+		<li>EFT_ArmorClass4</li>			
+		<li>EFT_ScavsRaiderGear</li>
 	  </tags>	
 	  <layers>
 		<li>Middle</li>			
 	  </layers>	  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>481</MarketValue>	
+	  <MaxHitPoints>70</MaxHitPoints>
+	  <Mass>8.7</Mass>
+	  <ArmorRating_Sharp>0.92</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.46</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.25</ArmorRating_Heat>
+	  <Insulation_Cold>0.20</Insulation_Cold>
+	  <Insulation_Heat>0.15</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.02</ShootingAccuracyPawn>	
+	  <MoveSpeed>-0.10</MoveSpeed>	
+	  <CarryingCapacity>4</CarryingCapacity>	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -225,24 +254,28 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Ars_Arma_A18_Skanda/Ars_Arma_A18_Skanda</wornGraphicPath>
 	  <tags>
-		<li></li>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ArmorClass4</li>			
 	  </tags>
 	  <layers>
 		<li>Middle</li>			
 	  </layers>	  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>564</MarketValue>	
+	  <MaxHitPoints>80</MaxHitPoints>
+	  <Mass>8.2</Mass>
+	  <ArmorRating_Sharp>0.90</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.48</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.25</ArmorRating_Heat>
+	  <Insulation_Cold>0.10</Insulation_Cold>
+	  <Insulation_Heat>0.15</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.06</ShootingAccuracyPawn>
+	  <MoveSpeed>-0.07</MoveSpeed>	 
+	  <CarryingCapacity>4</CarryingCapacity>	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -260,24 +293,29 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Wartech_TV-110/Wartech_TV-110</wornGraphicPath>
 	  <tags>
-		<li></li>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ArmorClass4</li>			
+		<li>EFT_ScavsRaiderGear</li>	
 	  </tags>
 	  <layers>
 		<li>Middle</li>			
 	  </layers>	  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>577</MarketValue>	
+	  <MaxHitPoints>85</MaxHitPoints>
+	  <Mass>10.3</Mass>
+	  <ArmorRating_Sharp>0.92</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.49</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.25</ArmorRating_Heat>
+	  <Insulation_Cold>0.10</Insulation_Cold>
+	  <Insulation_Heat>0.15</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>	
+	  <MoveSpeed>-0.08</MoveSpeed>	 
+	  <CarryingCapacity>4</CarryingCapacity>	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -295,24 +333,29 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/5_11_Tactec_plate_carrier/5_11_Tactec_plate_carrier</wornGraphicPath>
 	  <tags>
-		<li></li>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ArmorClass5</li>			
+		<li>EFT_ScavsRaiderGear</li>	
 	  </tags>
 	  <layers>
 		<li>Middle</li>			
 	  </layers>	  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>583</MarketValue>	
+	  <MaxHitPoints>50</MaxHitPoints>
+	  <Mass>9.5</Mass>
+	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.55</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.30</ArmorRating_Heat>
+	  <Insulation_Cold>0.10</Insulation_Cold>
+	  <Insulation_Heat>15</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.03</ShootingAccuracyPawn>	
+	  <MoveSpeed>-0.07</MoveSpeed>	 
+	  <CarryingCapacity>5</CarryingCapacity>		  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -330,24 +373,28 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Ars_Arma_CPC_MOD_2/Ars_Arma_CPC_MOD_2</wornGraphicPath>
 	  <tags>
-		<li></li>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ArmorClass5</li>		
 	  </tags>
 	  <layers>
 		<li>Middle</li>			
 	  </layers>	  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <Insulation_Cold>6</Insulation_Cold>
-	  <Insulation_Heat>10</Insulation_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>595</MarketValue>	
+	  <MaxHitPoints>60</MaxHitPoints>
+	  <Mass>8.5</Mass>
+	  <ArmorRating_Sharp>0.98</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.55</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.30</ArmorRating_Heat>
+	  <Insulation_Cold>0.10</Insulation_Cold>
+	  <Insulation_Heat>0.15</Insulation_Heat>
+	  <EquipDelay>1.1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	  <MoveSpeed>-0.40</MoveSpeed>	 
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>	
+	  <MoveSpeed>-0.06</MoveSpeed>	 
+	  <CarryingCapacity>5</CarryingCapacity>	  
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -369,18 +416,21 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Scav_Vest/Scav_Vest</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ScavsGear</li>			
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>100</MarketValue>	
+	  <MaxHitPoints>80</MaxHitPoints>
+	  <Mass>0.4</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>8</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -398,18 +448,21 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Spiritus_Systems/Spiritus_Systems</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ScavsGear</li>			
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>120</MarketValue>	
+	  <MaxHitPoints>80</MaxHitPoints>
+	  <Mass>0.70</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>8</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -427,18 +480,20 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/SOE_Micro/SOE_Micro</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>		  
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>137</MarketValue>	
+	  <MaxHitPoints>80</MaxHitPoints>
+	  <Mass>0.80</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>10</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -456,18 +511,21 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Wartech_TV-109/Wartech_TV-109</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ScavsGear</li>			
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>162</MarketValue>	
+	  <MaxHitPoints>85</MaxHitPoints>
+	  <Mass>1.8</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>12</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef>
 
@@ -485,18 +543,21 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/UMTBS_6sh112/UMTBS_6sh112</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ScavsRaiderGear</li>		
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>203</MarketValue>	
+	  <MaxHitPoints>90</MaxHitPoints>
+	  <Mass>1.7</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>14</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef>
 
@@ -514,18 +575,21 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Splav_Tarzan_M22/Splav_Tarzan_M22</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ScavsGear</li>		
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>216</MarketValue>	
+	  <MaxHitPoints>90</MaxHitPoints>
+	  <Mass>1.45</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>16</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef>
 
@@ -543,28 +607,30 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Haley_Strategic_D3CRX/Haley_Strategic_D3CRX</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>		  
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>262</MarketValue>	
+	  <MaxHitPoints>70</MaxHitPoints>
+	  <Mass>0.90</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>16</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef>
 
 	<!--==============================================
-	=============== Haley Strategic  D3CRX ==================
+	=============== Triton M43-A Chest Harness ==================
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierChestRigBase">
 	<defName>JDSTarkov_Triton_M43-A</defName>
-	<label>Blackhawk! Commando Chest Harness</label> 
+	<label>Triton M43-A Chest Harness</label> 
 	<description>"Designed for comfort and quick access this harness puts a lot of additional magazines at your fingertips".</description>	
     <graphicData>
 	  <texPath>Things/ChestRigs/Triton_M43-A/Triton_M43-A_UI</texPath>
@@ -572,18 +638,23 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Triton_M43-A/Triton_M43-A</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ScavsGear</li>
+		<li>EFT_ScavsRaiderGear</li>		
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>280</MarketValue>	
+	  <MaxHitPoints>90</MaxHitPoints>
+	  <Mass>1.3</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.15</ArmorRating_Blunt>	  
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>16</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef>
   
@@ -601,18 +672,21 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Commando_Chest_Harness/Commando_Chest_Harness</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ScavsRaiderGear</li>	  
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>280</MarketValue>	
+	  <MaxHitPoints>90</MaxHitPoints>
+	  <Mass>1.35</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>16</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef>  
 
@@ -630,18 +704,20 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Direct_Action_Compact/Direct_Action_Compact</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>		  
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>300</MarketValue>	
+	  <MaxHitPoints>95</MaxHitPoints>
+	  <Mass>0.62</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>16</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef>  
 
@@ -659,18 +735,21 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/LBT-1961A_Load_Bearing/LBT-1961A_Load_Bearing</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ScavsRaiderGear</li>	
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>345</MarketValue>	
+	  <MaxHitPoints>95</MaxHitPoints>
+	  <Mass>1.30</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>18</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef>  
 
@@ -688,18 +767,22 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/BlackRock/BlackRock</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ScavsGear</li>		
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>345</MarketValue>	
+	  <MaxHitPoints>100</MaxHitPoints>
+	  <Mass>1.80</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.15</ArmorRating_Blunt>	  
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>20</CarryingCapacity>	
 	</equippedStatOffsets>
   </ThingDef>  
 
@@ -717,18 +800,22 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Wartech_MK3/Wartech_MK3</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>	
+		<li>EFT_ScavsGear</li>			
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>400</MarketValue>
+	  <MaxHitPoints>100</MaxHitPoints>
+	  <Mass>1.65</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.15</ArmorRating_Blunt>	  
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>20</CarryingCapacity>	
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -746,18 +833,22 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/ANA_Tactical/ANA_Tactical_Alpha</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ScavsRaiderGear</li>	
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>427</MarketValue>	
+	  <MaxHitPoints>105</MaxHitPoints>
+	  <Mass>1.70</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.15</ArmorRating_Blunt>	  
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>20</CarryingCapacity>		
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -775,18 +866,21 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Velocity_Systems/Velocity_Systems</wornGraphicPath>
 	  <tags>
-		<li></li>
+		<li>EFT_ChestRig</li>		
+		<li>EFT_ScavsRaiderGear</li>	
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>462</MarketValue>	
+	  <MaxHitPoints>110</MaxHitPoints>
+	  <Mass>1.70</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.15</ArmorRating_Blunt>	  
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>24</CarryingCapacity>	
 	</equippedStatOffsets>
   </ThingDef> 
 
@@ -804,18 +898,22 @@
 	<apparel>
 	  <wornGraphicPath>Things/ChestRigs/Belt-A/Belt-A</wornGraphicPath>
 	  <tags>
+		<li>EFT_ChestRig</li>
+		<li>EFT_ScavsGear</li>			
 		<li></li>
 	  </tags>  
     </apparel>
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>8</Mass>
-	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
-	  <EquipDelay>3</EquipDelay>
+	  <MarketValue>550</MarketValue>	
+	  <MaxHitPoints>110</MaxHitPoints>
+	  <Mass>1.60</Mass>
+	  <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.15</ArmorRating_Blunt>	  
+	  <ArmorRating_Heat>0.10</ArmorRating_Heat>
+	  <EquipDelay>0.50</EquipDelay>
     </statBases>
     <equippedStatOffsets> 
+	  <CarryingCapacity>25</CarryingCapacity>	
 	</equippedStatOffsets>
   </ThingDef> 
 

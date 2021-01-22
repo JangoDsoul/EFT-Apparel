@@ -15,18 +15,21 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Tac-Kek_Fast_MT/Tac-Kek_Fast_MT</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass1</li>	
+		<li>EFT_ScavsGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>260</MarketValue>
 	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1.2</Mass>
+	  <ArmorRating_Sharp>0.45</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.25</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.20</ArmorRating_Heat>
+	  <Insulation_Cold>0.20</Insulation_Cold>
+	  <Insulation_Heat>0.20</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -46,21 +49,24 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Tac-Kek_Fast_MT_Mando/Tac-Kek_Fast_MT_Mando</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass1</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>270</MarketValue>	
+	  <MaxHitPoints>50</MaxHitPoints>
+	  <Mass>1.25</Mass>
+	  <ArmorRating_Sharp>0.48</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.2</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.20</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	</equippedStatOffsets>	
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
+	</equippedStatOffsets>		
   </ThingDef>
 
 	<!--==============================================
@@ -77,18 +83,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Soft_Tank_Crew/Soft_Tank_Crew</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass2</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>274</MarketValue>	
 	  <MaxHitPoints>100</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1.2</Mass>
+	  <ArmorRating_Sharp>0.36</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -106,27 +114,30 @@
       <texPath>Things/Headgear/Kolpak-1S_Riot_Helmet/Kolpak-1S_Riot_Helmet_UI</texPath>
     </graphicData>
     <apparel>
-	  <wornGraphicPath>Things/Headgear/Kolpak-1S_Riot_Helmet/Kolpak-1S_Riot_Helmet_UI</wornGraphicPath>
+	  <wornGraphicPath>Things/Headgear/Kolpak-1S_Riot_Helmet/Kolpak-1S_Riot_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass2</li>
+		<li>EFT_ScavsGear</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>278</MarketValue>	
 	  <MaxHitPoints>25</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1.2</Mass>
+	  <ArmorRating_Sharp>0.50</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.28</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
   </ThingDef>
 
 	<!--==============================================
-	========= Kolpak-1S Riot Helmet (Visor) ===========
+	======== Kolpak-1S Riot Helmet (Visor) ===========
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -139,25 +150,29 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Kolpak-1S_Riot_Helmet_Shield/Kolpak-1S_Riot_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass2</li>
+		<li>EFT_ScavsGear</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>35</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>282</MarketValue>
+	  <MaxHitPoints>30</MaxHitPoints>
+	  <Mass>1.2</Mass>
+	  <ArmorRating_Sharp>0.52</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.28</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	</equippedStatOffsets>	
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
+	</equippedStatOffsets>		
   </ThingDef>
 
 	<!--==============================================
-	========= SHPM Firefighter Helmet  ===========
+	=========== SHPM Firefighter Helmet  =============
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -170,25 +185,28 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/SHPM_Firefighter_Helmet/SHPM_Firefighter_Helmet</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass2</li>
+		<li>EFT_ScavsGear</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>284</MarketValue>	
 	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1</Mass>
+	  <ArmorRating_Sharp>0.54</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.29</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
   </ThingDef>
   
 	<!--==============================================
-	========= SHPM Firefighter Helmet (Visor) ===========
+	======== SHPM Firefighter Helmet (Visor) =========
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -201,25 +219,29 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/SHPM_Firefighter_Helmet_Shield/SHPM_Firefighter_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass2</li>	
+		<li>EFT_ScavsGear</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>55</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>286</MarketValue>	
+	  <MaxHitPoints>45</MaxHitPoints>
+	  <Mass>1</Mass>
+	  <ArmorRating_Sharp>0.55</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.29</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	</equippedStatOffsets>	
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
+	</equippedStatOffsets>		
   </ThingDef>  
   
 	<!--==============================================
-	========= PSH-97 "Djeta" helmet ===========
+	============= PSH-97 "Djeta" helmet ==============
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -232,18 +254,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/PSH-97_Djeta_Helmet/PSH-97_Djeta_Helmet</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass2</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>291</MarketValue>	
 	  <MaxHitPoints>65</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>3.4</Mass>
+	  <ArmorRating_Sharp>0.55</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.31</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.5</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -263,25 +287,28 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/PSH-97_Djeta_Helmet_Shield/PSH-97_Djeta_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass2</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>80</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>295</MarketValue>	
+	  <MaxHitPoints>70</MaxHitPoints>
+	  <Mass>3.4</Mass>
+	  <ArmorRating_Sharp>0.58</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.31</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.5</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef>   
   
 	<!--==============================================
-	========= UNTAR helmet ===========
+	================= UNTAR helmet ===================
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -294,25 +321,28 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/UNTAR_Helmet/UNTAR_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass3</li>		
+		<li>EFT_ScavsGear</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>294</MarketValue>	
 	  <MaxHitPoints>25</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>2.2</Mass>
+	  <ArmorRating_Sharp>0.60</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.30</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
   </ThingDef>    
 
 	<!--==============================================
-	========= 6B47 Ratnik-BSh Helmet ===========
+	============ 6B47 Ratnik-BSh Helmet ==============
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -325,25 +355,28 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/6B47_Ratnik-BSh_Helmet/6B47_Ratnik-BSh_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>			
+		<li>EFT_ArmorClass3</li>
+		<li>EFT_ScavsGear</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>25</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>300</MarketValue>	
+	  <MaxHitPoints>30</MaxHitPoints>
+	  <Mass>1.3</Mass>
+	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.34</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
   </ThingDef>    
 
 	<!--==============================================
-	========= LZSh light helmet ===========
+	=============== LZSh light helmet ================
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -356,25 +389,27 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/LZSh_Light_Helmet/LZSh_Light_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>			
+		<li>EFT_ArmorClass3</li>
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>300</MarketValue>	
 	  <MaxHitPoints>30</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>0.95</Mass>
+	  <ArmorRating_Sharp>0.68</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
   </ThingDef>    
 
 	<!--==============================================
-	========= SSh-68 helmet ===========
+	================= SSh-68 helmet ==================
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -387,25 +422,28 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/SSh-68_Helmet/SSh-68_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass3</li>	
+		<li>EFT_ScavsGear</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>303</MarketValue>	
 	  <MaxHitPoints>30</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1.5</Mass>
+	  <ArmorRating_Sharp>0.75</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.39</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
   </ThingDef>    
 
 	<!--==============================================
-	========= Kiver-M Helmet ===========
+	=============== Kiver-M Helmet ===================
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -418,25 +456,28 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Kiver-M_Helmet/Kiver-M_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass3</li>
+		<li>EFT_ScavsRaiderGear</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>305</MarketValue>	
 	  <MaxHitPoints>35</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1.2</Mass>
+	  <ArmorRating_Sharp>0.78</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.40</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
   </ThingDef>    
 
 	<!--==============================================
-	========= Kiver-M Helmet (Visor) ===========
+	============ Kiver-M Helmet (Visor) ==============
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -449,25 +490,28 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Kiver-M_Helmet_Shield/Kiver-M_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass3</li>	
+		<li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>50</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>310</MarketValue>	
+	  <MaxHitPoints>40</MaxHitPoints>
+	  <Mass>1.2</Mass>
+	  <ArmorRating_Sharp>0.80</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.42</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
   </ThingDef>    
 
 	<!--==============================================
-	========= Kiver-M Helmet (Visor Up) ===========
+	=========== Kiver-M Helmet (Visor Up) ============
 	===============================================-->	
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
@@ -480,18 +524,21 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Kiver-M_Helmet_Shieldup/Kiver-M_Helmet_Shieldup</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass3</li>
+		<li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>310</MarketValue>	
 	  <MaxHitPoints>50</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1.2</Mass>
+	  <ArmorRating_Sharp>0.80</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.43</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -511,18 +558,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/SSSh-95_Sfera-S/SSSh-95_Sfera-S</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass3</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>328</MarketValue>	
 	  <MaxHitPoints>100</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>3.5</Mass>
+	  <ArmorRating_Sharp>0.80</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.29</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -542,18 +591,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/MSA_TC-2001_Helmet/MSA_TC-2001_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>30</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>344</MarketValue>	
+	  <MaxHitPoints>25</MaxHitPoints>
+	  <Mass>1.4</Mass>
+	  <ArmorRating_Sharp>0.84</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -573,18 +624,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/MSA_TC-2002_Helmet/MSA_TC-2002_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>35</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>352</MarketValue>	
+	  <MaxHitPoints>27</MaxHitPoints>
+	  <Mass>1.45</Mass>
+	  <ArmorRating_Sharp>0.85</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -604,18 +657,21 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/MSA_TC-800_Helmet/MSA_TC-800_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass4</li>	
+		<li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>368</MarketValue>	
+	  <MaxHitPoints>30</MaxHitPoints>
+	  <Mass>1.17</Mass>
+	  <ArmorRating_Sharp>0.86</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -635,18 +691,21 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Highcom_Striker_ACHHC_IIIA_Helmet/Highcom_Striker_ACHHC_IIIA_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass4</li>	
+		<li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>374</MarketValue>	
 	  <MaxHitPoints>30</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1.5</Mass>
+	  <ArmorRating_Sharp>0.88</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -666,18 +725,21 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Highcom_Striker_ACHHC_IIIA_Helmet_Black/Highcom_Striker_ACHHC_IIIA_Helmet_Black</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass4</li>
+		<li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>374</MarketValue>	
 	  <MaxHitPoints>30</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1.5</Mass>
+	  <ArmorRating_Sharp>0.88</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -697,18 +759,21 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/ZSh-1-2M_Helmet/ZSh-1-2M_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>
+		<li>EFT_ArmorClass4</li>	
+		<li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>385</MarketValue>	
 	  <MaxHitPoints>50</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>2.7</Mass>
+	  <ArmorRating_Sharp>0.90</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -728,20 +793,24 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/ZSh-1-2M_Helmet_Shield/ZSh-1-2M_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass4</li>		
+		<li>EFT_ScavsRaiderGear</li>	
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>390</MarketValue>	
 	  <MaxHitPoints>100</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>3.7</Mass>
+	  <ArmorRating_Sharp>0.94</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.43</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef>    
 
@@ -759,18 +828,21 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Highcom_Striker_ULACH_IIIA_Helmet/Highcom_Striker_ULACH_IIIA_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass4</li>
+		<li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>406</MarketValue>	
 	  <MaxHitPoints>38</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1.9</Mass>
+	  <ArmorRating_Sharp>0.90</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -790,18 +862,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Helmet/Ops-Core_Fast_MT_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>401</MarketValue>	
 	  <MaxHitPoints>40</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>0.90</Mass>
+	  <ArmorRating_Sharp>0.91</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -821,20 +895,23 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Helmet_Shield/Ops-Core_Fast_MT_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>420</MarketValue>	
 	  <MaxHitPoints>70</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>1</Mass>
+	  <ArmorRating_Sharp>0.93</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef>    
 
@@ -852,20 +929,23 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Mando/Ops-Core_Fast_MT_Mando</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>70</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>485</MarketValue>	
+	  <MaxHitPoints>80</MaxHitPoints>
+	  <Mass>1</Mass>
+	  <ArmorRating_Sharp>0.93</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.5</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef>    
 
@@ -883,21 +963,24 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Mod_Helmet/Ops-Core_Fast_MT_Mod_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>70</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>496</MarketValue>	
+	  <MaxHitPoints>80</MaxHitPoints>
+	  <Mass>1</Mass>
+	  <ArmorRating_Sharp>0.93</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	</equippedStatOffsets>	
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
+	</equippedStatOffsets>		
   </ThingDef>    
 
 	<!--==============================================
@@ -914,20 +997,23 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Full_Helmet/Ops-Core_Fast_MT_Full_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>70</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>510</MarketValue>	
+	  <MaxHitPoints>80</MaxHitPoints>
+	  <Mass>1</Mass>
+	  <ArmorRating_Sharp>0.93</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.45</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef> 
 
@@ -937,7 +1023,7 @@
 
   <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headgear_Ops-Core_Fast_MT_Ten</defName>
-	<label>Ops-Core Fast MT Mod Helmet</label>
+	<label>Ops-Core Fast MT Helmet</label>
 	<description>"Ops-Core Fast ballistic helmet is popular in special forces all around the world. Can be modified with different components. Comes in black and tan."</description>
 	<graphicData>
       <texPath>Things/Headgear/Ops-Core_Fast_MT_Tan_Helmet/Ops-Core_Fast_MT_Tan_Helmet_UI</texPath>
@@ -945,18 +1031,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Ops-Core_Fast_MT_Tan_Helmet/Ops-Core_Fast_MT_Tan_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>			
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>70</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>401</MarketValue>	
+	  <MaxHitPoints>80</MaxHitPoints>
+	  <Mass>0.90</Mass>
+	  <ArmorRating_Sharp>0.91</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -976,18 +1064,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/BNTI_LSHZ-2DTM_Helmet/BNTI_LSHZ-2DTM_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>521</MarketValue>	
 	  <MaxHitPoints>55</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>3.4</Mass>
+	  <ArmorRating_Sharp>0.93</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.44</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -1007,21 +1097,24 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/BNTI_LSHZ-2DTM_Helmet_Shield/BNTI_LSHZ-2DTM_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>70</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>542</MarketValue>	
+	  <MaxHitPoints>88</MaxHitPoints>
+	  <Mass>3.4</Mass>
+	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.46</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.46</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	</equippedStatOffsets>	
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
+	</equippedStatOffsets>		
   </ThingDef>    
 
 	<!--==============================================
@@ -1038,20 +1131,23 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/BNTI_LSHZ-2DTM_Helmet_Full/BNTI_LSHZ-2DTM_Helmet_Full</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>90</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>565</MarketValue>	
+	  <MaxHitPoints>110</MaxHitPoints>
+	  <Mass>3.4</Mass>
+	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.46</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.46</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef>    
 
@@ -1069,18 +1165,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Maska_1Sch_Helmet/Maska_1Sch_Helmet_UI</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>			
+		<li>EFT_ArmorClass4</li>
 	  </tags>
     </apparel>	
     <statBases>
+	  <MarketValue>588</MarketValue>
 	  <MaxHitPoints>60</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <Mass>2.6</Mass>
+	  <ArmorRating_Sharp>0.96</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.46</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -1100,21 +1198,24 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Maska_1Sch_Helmet_Shield/Maska_1Sch_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>110</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>595</MarketValue>	
+	  <MaxHitPoints>100</MaxHitPoints>
+	  <Mass>2.7</Mass>
+	  <ArmorRating_Sharp>0.98</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.48</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
-	</equippedStatOffsets>	
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
+	</equippedStatOffsets>		
   </ThingDef>    
 
 	<!--==============================================
@@ -1131,20 +1232,23 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Maska_1Sch_up_Helmet_Shield/Maska_1Sch_up_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass4</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>110</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>590</MarketValue>	
+	  <MaxHitPoints>100</MaxHitPoints>
+	  <Mass>2.7</Mass>
+	  <ArmorRating_Sharp>0.98</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.48</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef>    
 
@@ -1162,18 +1266,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Altyn_Helmet/Altyn_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass5</li>		
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>80</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>590</MarketValue>	
+	  <MaxHitPoints>60</MaxHitPoints>
+	  <Mass>3</Mass>
+	  <ArmorRating_Sharp>1.00</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.52</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -1193,20 +1299,23 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Altyn_Helmet_Shield/Altyn_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass5</li>			
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>120</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>597</MarketValue>	
+	  <MaxHitPoints>110</MaxHitPoints>
+	  <Mass>3.1</Mass>
+	  <ArmorRating_Sharp>1.06</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.55</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.5</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef>      
   
@@ -1224,18 +1333,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Altyn_up_Helmet_Shield/Altyn_up_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass5</li>			
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>120</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>597</MarketValue>	
+	  <MaxHitPoints>110</MaxHitPoints>
+	  <Mass>3.1</Mass>
+	  <ArmorRating_Sharp>1.06</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.55</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -1255,18 +1366,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Rys-T_Helmet/Rys-T_Helmet</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass5</li>			
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>120</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>595</MarketValue>	
+	  <MaxHitPoints>65</MaxHitPoints>
+	  <Mass>2.5</Mass>
+	  <ArmorRating_Sharp>1.00</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.52</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -1286,20 +1399,23 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Rys-T_Helmet_Shield/Rys-T_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass5</li>			
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>120</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
+	  <MarketValue>600</MarketValue>	
+	  <MaxHitPoints>110</MaxHitPoints>
+	  <Mass>2.6</Mass>
+	  <ArmorRating_Sharp>1.07</ArmorRating_Sharp>
 	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.5</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef>        
   
@@ -1317,18 +1433,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Rys-T_Helmet_up_Shield/Rys-T_Helmet_up_Shield</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+		<li>EFT_Headgear</li>
+		<li>EFT_ArmorClass5</li>			
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>120</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>600</MarketValue>	
+	  <MaxHitPoints>110</MaxHitPoints>
+	  <Mass>2.6</Mass>
+	  <ArmorRating_Sharp>1.07</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.55</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.5</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -1348,18 +1466,20 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Vulkan-5_Heavy_Helmet/Vulkan-5_Heavy_Helmet</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>		
+		<li>EFT_ArmorClass5</li>			
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>57</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>620</MarketValue>	
+	  <MaxHitPoints>70</MaxHitPoints>
+	  <Mass>3.5</Mass>
+	  <ArmorRating_Sharp>1.05</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.52</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1</EquipDelay>
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
@@ -1379,20 +1499,23 @@
     <apparel>
 	  <wornGraphicPath>Things/Headgear/Vulkan-5_Heavy_Helmet_Shield/Vulkan-5_Heavy_Helmet_Shield</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_Casque_Helmet</li>			
+		<li>EFT_Headgear</li>	
+		<li>EFT_ArmorClass5</li>			
 	  </tags>
     </apparel>	
     <statBases>
-	  <MaxHitPoints>110</MaxHitPoints>
-	  <Mass>2</Mass>
-	  <ArmorRating_Sharp>0.7</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.62</ArmorRating_Blunt>
-	  <ArmorRating_Heat>0.5</ArmorRating_Heat>
-	  <Insulation_Cold>5</Insulation_Cold>
-	  <Insulation_Heat>8</Insulation_Heat>
-	  <EquipDelay>2</EquipDelay>
+	  <MarketValue>635</MarketValue>	
+	  <MaxHitPoints>115</MaxHitPoints>
+	  <Mass>3.6</Mass>
+	  <ArmorRating_Sharp>1.10</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.55</ArmorRating_Blunt>
+	  <ArmorRating_Heat>0.42</ArmorRating_Heat>
+	  <Insulation_Cold>0.50</Insulation_Cold>
+	  <Insulation_Heat>0.02</Insulation_Heat>
+	  <EquipDelay>1.5</EquipDelay>
     </statBases>
     <equippedStatOffsets>
+	  <ShootingAccuracyPawn>-0.05</ShootingAccuracyPawn>
 	</equippedStatOffsets>	
   </ThingDef> 
   

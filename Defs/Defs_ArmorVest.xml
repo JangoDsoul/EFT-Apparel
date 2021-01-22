@@ -15,14 +15,17 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/Module-3M/Module-3M</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass2</li>
+		<li>EFT_ScavsGear</li>			
 	  </tags>	  
     </apparel>
     <statBases>
+	  <MarketValue>225</MarketValue>		
 	  <MaxHitPoints>40</MaxHitPoints>
 	  <Mass>8</Mass>
 	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.20</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -47,15 +50,18 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/PACA_Soft_Armor/PACA_Soft_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
-		<li>ScavRaiders</li>		
+		<li>EFT_ArmorVest</li>	
+		<li>EFT_ArmorClass2</li>		
+		<li>EFT_ScavsGear</li>	
+		<li>EFT_ScavsRaiderGear</li>		
 	  </tags>	  
     </apparel>
     <statBases>
+	  <MarketValue>296</MarketValue>		
 	  <MaxHitPoints>50</MaxHitPoints>
 	  <Mass>7</Mass>
 	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.25</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -80,14 +86,17 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/6B2_Armor/6B2_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass2</li>	
+		<li>EFT_ScavsGear</li>			
 	  </tags>  
     </apparel>
     <statBases>
+	  <MarketValue>300</MarketValue>		
 	  <MaxHitPoints>80</MaxHitPoints>
 	  <Mass>4.5</Mass>
 	  <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.25</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -112,14 +121,17 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/MF-UNTAR/MF-UNTAR</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass3</li>	
+		<li>EFT_ScavsGear</li>			
 	  </tags>
     </apparel>
     <statBases>
+	  <MarketValue>331</MarketValue>		
 	  <MaxHitPoints>50</MaxHitPoints>
 	  <Mass>8</Mass>
 	  <ArmorRating_Sharp>0.76</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.30</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -144,14 +156,17 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/Zhuk-3_Press_Armor/Zhuk-3_Press_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass3</li>	
+		<li>EFT_ScavsGear</li>			
 	  </tags>  
     </apparel>
     <statBases>
+	  <MarketValue>365</MarketValue>		
 	  <MaxHitPoints>50</MaxHitPoints>
 	  <Mass>5.2</Mass>
 	  <ArmorRating_Sharp>0.76</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -176,17 +191,20 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/6B23-1_Armor/6B23-1_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass3</li>	
+		<li>EFT_ScavsGear</li>			
 	  </tags>	
 	  <bodyPartGroups>	
 		<li>Neck</li>		
 	  </bodyPartGroups>		  
     </apparel>
     <statBases>
+	  <MarketValue>384</MarketValue>		
 	  <MaxHitPoints>60</MaxHitPoints>
 	  <Mass>7.9</Mass>
 	  <ArmorRating_Sharp>0.76</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.35</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -211,15 +229,18 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/BNTI_Kirasa-N_Armor/BNTI_Kirasa-N_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
-		<li>ScavRaiders</li>		
+		<li>EFT_ArmorVest</li>	
+		<li>EFT_ArmorClass3</li>	
+		<li>EFT_ScavsGear</li>
+		<li>EFT_ScavsRaiderGear</li>		
 	  </tags>  
     </apparel>
     <statBases>
+	  <MarketValue>416</MarketValue>		
 	  <MaxHitPoints>70</MaxHitPoints>
 	  <Mass>4.1</Mass>
 	  <ArmorRating_Sharp>0.79</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.30</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -244,14 +265,17 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/Highcom_Trooper_TFO_Armor/Highcom_Trooper_TFO_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavRaiders</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass4</li>
+		<li>EFT_ScavsRaiderGear</li>		
 	  </tags>	  
     </apparel>
     <statBases>
+	  <MarketValue>530</MarketValue>		
 	  <MaxHitPoints>100</MaxHitPoints>
 	  <Mass>5</Mass>
-	  <ArmorRating_Sharp>0.84</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Sharp>0.85</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.40</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -277,17 +301,20 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/6B13_Assault_Armor/6B13_Assault_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass4</li>
+		<li>EFT_ScavsGear</li>			
 	  </tags>	
 	  <bodyPartGroups>	
 		<li>Neck</li>		
 	  </bodyPartGroups>		  
     </apparel>
     <statBases>
+	  <MarketValue>747</MarketValue>		
 	  <MaxHitPoints>47</MaxHitPoints>
 	  <Mass>8</Mass>
 	  <ArmorRating_Sharp>0.85</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -313,17 +340,19 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/6B23-2_Armor/6B23-2_Armor</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_ChestPlate_AR_Armor_Colored</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass4</li>		
 	  </tags>	 
 	  <bodyPartGroups>	
 		<li>Neck</li>		
 	  </bodyPartGroups>		  
     </apparel>
     <statBases>
+	  <MarketValue>853</MarketValue>	
 	  <MaxHitPoints>55</MaxHitPoints>
 	  <Mass>5</Mass>
 	  <ArmorRating_Sharp>0.87</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -349,17 +378,20 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/FORT_Redut-M_Body_Armor/FORT_Redut-M_Body_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavRaiders</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass5</li>	
+		<li>EFT_ScavsRaiderGear</li>		
 	  </tags>	 
 	  <bodyPartGroups>		
 		<li>Legs</li>			
 	  </bodyPartGroups>			  
     </apparel>
     <statBases>
+	  <MarketValue>1000</MarketValue>		
 	  <MaxHitPoints>60</MaxHitPoints>
 	  <Mass>11</Mass>
-	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Sharp>0.90</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.48</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -385,17 +417,19 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/6B13_M_Assault_Armor/6B13_M_Assault_Armor</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_ChestPlate_AR_Armor_Colored</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass5</li>		
 	  </tags>
 	  <bodyPartGroups>	
 		<li>Neck</li>		
 	  </bodyPartGroups>		  
     </apparel>
     <statBases>
+	  <MarketValue>1150</MarketValue>		
 	  <MaxHitPoints>60</MaxHitPoints>
 	  <Mass>7.5</Mass>
-	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Sharp>0.90</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.50</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -421,7 +455,9 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/IOTV_Gen4_Armor/IOTV_Gen4_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavRaiders</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass5</li>
+		<li>EFT_ScavsRaiderGear</li>		
 	  </tags>	
 	  <bodyPartGroups>	
 		<li>Neck</li>		
@@ -429,10 +465,11 @@
 	  </bodyPartGroups>		  
     </apparel>
     <statBases>
+	  <MarketValue>1332</MarketValue>		
 	  <MaxHitPoints>65</MaxHitPoints>
 	  <Mass>12</Mass>
-	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Sharp>0.90</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.50</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -458,14 +495,17 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/BNTI_Gzhel-K_Armor/BNTI_Gzhel-K_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass5</li>	
+		<li>EFT_ScavsGear</li>			
 	  </tags>	  
     </apparel>
     <statBases>
+	  <MarketValue>1650</MarketValue>		
 	  <MaxHitPoints>65</MaxHitPoints>
 	  <Mass>8.9</Mass>
-	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Sharp>0.93</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -491,18 +531,21 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/FORT_Defender-2_Body_Armor/FORT_Defender-2_Body_Armor</wornGraphicPath>
 	  <tags>
-		<li>ScavsGear</li>
-		<li>ScavRaiders</li>		
+		<li>EFT_ArmorVest</li>	
+		<li>EFT_ArmorClass5</li>
+		<li>EFT_ScavsGear</li>		
+		<li>EFT_ScavsRaiderGear</li>		
 	  </tags>
 	  <bodyPartGroups>		
 		<li>Legs</li>			
 	  </bodyPartGroups>			  
     </apparel>
     <statBases>
+	  <MarketValue>1753</MarketValue>		
 	  <MaxHitPoints>70</MaxHitPoints>
 	  <Mass>11</Mass>
-	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Sharp>0.93</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.51</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -528,7 +571,9 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/IOTV_Gen4_Armor(Assaultkit)/IOTV_Gen4_Armor(Assaultkit)</wornGraphicPath>
 	  <tags>
-		<li>ScavRaiders</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass5</li>		
+		<li>EFT_ScavsRaiderGear</li>		
 	  </tags>	
 	  <bodyPartGroups>	
 		<li>Neck</li>		
@@ -537,10 +582,11 @@
 	  </bodyPartGroups>		  
     </apparel>
     <statBases>
+	  <MarketValue>1888</MarketValue>		
 	  <MaxHitPoints>75</MaxHitPoints>
 	  <Mass>13</Mass>
 	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Blunt>0.52</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -566,7 +612,8 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/IOTV_Gen4_Armor(FullProtection)/IOTV_Gen4_Armor(FullProtection)</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_ChestPlate_AR_Armor_Colored</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass5</li>		
 	  </tags>	
 	  <bodyPartGroups>	
 		<li>Neck</li>
@@ -575,10 +622,11 @@
 	  </bodyPartGroups>		  
     </apparel>
     <statBases>
+	  <MarketValue>1918</MarketValue>		
 	  <MaxHitPoints>100</MaxHitPoints>
 	  <Mass>5</Mass>
-	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Sharp>0.96</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.52</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -604,7 +652,8 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/FORT_Redut-T5_Body_Armor/FORT_Redut-T5_Body_Armor</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_ChestPlate_AR_Armor_Colored</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass5</li>		
 	  </tags>	
 	  <bodyPartGroups>
 		<li>Shoulders</li>	  
@@ -612,10 +661,11 @@
 	  </bodyPartGroups>			  
     </apparel>
     <statBases>
+	  <MarketValue>2000</MarketValue>		
 	  <MaxHitPoints>100</MaxHitPoints>
 	  <Mass>15</Mass>
-	  <ArmorRating_Sharp>0.95</ArmorRating_Sharp>
-	  <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Sharp>0.98</ArmorRating_Sharp>
+	  <ArmorRating_Blunt>0.53</ArmorRating_Blunt>
 	  <ArmorRating_Heat>0.27</ArmorRating_Heat>
 	  <Insulation_Cold>6</Insulation_Cold>
 	  <Insulation_Heat>10</Insulation_Heat>
@@ -641,14 +691,17 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/LBT_6094A_Slick_Plate_Carrier/LBT_6094A_Slick_Plate_Carrier</wornGraphicPath>
 	  <tags>
-		<li>ScavRaiders</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass6</li>
+		<li>EFT_ScavsRaiderGear</li>			
 	  </tags>	  
     </apparel>
     <statBases>
+	  <MarketValue>2015</MarketValue>		
 	  <MaxHitPoints>80</MaxHitPoints>
 	  <Mass>8</Mass>
       <ArmorRating_Sharp>1.06</ArmorRating_Sharp>
-      <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+      <ArmorRating_Blunt>0.55</ArmorRating_Blunt>
       <ArmorRating_Heat>0.54</ArmorRating_Heat>
       <Insulation_Cold>34</Insulation_Cold>
       <Insulation_Heat>10</Insulation_Heat>
@@ -674,7 +727,8 @@
 	<apparel>
 	  <wornGraphicPath>Things/ArmorVest/6B43_Zabralo-Sh_6A_Armor/6B43_Zabralo-Sh_6A_Armor</wornGraphicPath>
 	  <tags>
-		<li>ExiledDawn_ChestPlate_AR_Armor_Colored</li>
+		<li>EFT_ArmorVest</li>
+		<li>EFT_ArmorClass6</li>		
 	  </tags>	
 	  <bodyPartGroups>	
 		<li>Neck</li>
@@ -683,10 +737,11 @@
 	  </bodyPartGroups>		  
     </apparel>
     <statBases>
+	  <MarketValue>2025</MarketValue>		
 	  <MaxHitPoints>110</MaxHitPoints>
 	  <Mass>15</Mass>
       <ArmorRating_Sharp>1.06</ArmorRating_Sharp>
-      <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+      <ArmorRating_Blunt>0.55</ArmorRating_Blunt>
       <ArmorRating_Heat>0.54</ArmorRating_Heat>
       <Insulation_Cold>34</Insulation_Cold>
       <Insulation_Heat>10</Insulation_Heat>

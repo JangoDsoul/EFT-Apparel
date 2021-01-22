@@ -32,7 +32,7 @@
         <compClass>CompQuality</compClass>
       </li>	  
     </comps>
-    <recipeMaker>
+    <!-- recipeMaker>
       <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
       <effectWorking>Tailor</effectWorking>
@@ -56,7 +56,7 @@
     </recipeMaker>	
     <costList>
       <WoodLog>1</WoodLog>
-    </costList>
+    </costList-->
   </ThingDef>
 
   <!--ThingDef Name="ApparelMakeableBase" ParentName="ApparelBase" Abstract="True">
@@ -93,7 +93,7 @@
 
   <ThingDef Name="JDSArmorHelmetBase" ParentName="JDSApparelBase" Abstract="True">
     <thingCategories>
-      <li>ArmorHeadgear</li>
+      <li>JDS_EFT_HeadGears</li>
     </thingCategories>
   </ThingDef>
 
@@ -103,7 +103,7 @@
 	
   <ThingDef Name="JDSFrontierFaceMaskBase" ParentName="JDSArmorHelmetBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
-	<tradeability>Sellable</tradeability>
+	<tradeability>All</tradeability>
 	<generateCommonality>0</generateCommonality>
 	<generateAllowChance>0</generateAllowChance>		
 	<graphicData>
@@ -124,9 +124,6 @@
 	  </defaultOutfitTags>
 	  <useDeflectMetalEffect>true</useDeflectMetalEffect>
     </apparel>
-	<thingCategories Inherit="False">
-	  <li>Headgear</li>
-	</thingCategories>
   </ThingDef>
 
 	<!--==============================================
@@ -135,7 +132,7 @@
 	
   <ThingDef Name="JDSFrontierHeadgearBase" ParentName="JDSArmorHelmetBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
-	<tradeability>Sellable</tradeability>
+	<tradeability>All</tradeability>
 	<generateCommonality>0</generateCommonality>
 	<generateAllowChance>0</generateAllowChance>		
 	<graphicData>
@@ -156,9 +153,6 @@
 	  </defaultOutfitTags>
 	  <useDeflectMetalEffect>true</useDeflectMetalEffect>
     </apparel>
-	<thingCategories Inherit="False">
-	  <li>Headgear</li>
-	</thingCategories>
   </ThingDef>
 
 	<!--==============================================
@@ -167,7 +161,7 @@
 	
   <ThingDef Name="JDSFrontierArmorVestBase" ParentName="JDSApparelBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
-	<tradeability>Sellable</tradeability>
+	<tradeability>All</tradeability>
 	<generateCommonality>0</generateCommonality>
 	<generateAllowChance>0</generateAllowChance>
 	<graphicData>
@@ -195,8 +189,8 @@
 	  </defaultOutfitTags>
 		<useDeflectMetalEffect>true</useDeflectMetalEffect>
 	</apparel>
-	<thingCategories Inherit="False">
-	  <li>ApparelArmor</li>
+	<thingCategories>
+	  <li>JDS_EFT_ArmorVests</li>
 	</thingCategories>
   </ThingDef>
 
@@ -206,7 +200,7 @@
 	
   <ThingDef Name="JDSFrontierChestRigBase" ParentName="JDSApparelBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
-	<tradeability>Sellable</tradeability>
+	<tradeability>All</tradeability>
 	<generateCommonality>0</generateCommonality>
 	<generateAllowChance>0</generateAllowChance>
 	<graphicData>
@@ -228,8 +222,8 @@
 	  </defaultOutfitTags>
 		<useDeflectMetalEffect>true</useDeflectMetalEffect>
 	</apparel>
-	<thingCategories Inherit="False">
-	  <li>ApparelArmor</li>
+	<thingCategories>
+	  <li>JDS_EFT_ChestRigs</li>
 	</thingCategories>
   </ThingDef>
 
@@ -239,7 +233,7 @@
 
   <ThingDef Name="JDSFrontierBackpackBase" ParentName="JDSApparelBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
-	<tradeability>Sellable</tradeability>
+	<tradeability>All</tradeability>
 	<generateCommonality>0</generateCommonality>
 	<generateAllowChance>0</generateAllowChance>  
 	<resourceReadoutPriority>Middle</resourceReadoutPriority>	
@@ -269,8 +263,8 @@
     <tradeTags>
       <li>Backpack</li>
     </tradeTags>
-    <thingCategories Inherit="False">
-      <li>ApparelUtility</li>
+    <thingCategories>
+      <li>JDS_EFT_Backpack</li>
     </thingCategories>	
   </ThingDef>
 
