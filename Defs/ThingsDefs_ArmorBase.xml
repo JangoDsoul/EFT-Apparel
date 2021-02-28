@@ -104,14 +104,14 @@
   <ThingDef Name="JDSFrontierFaceMaskBase" ParentName="JDSArmorHelmetBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
 	<tradeability>All</tradeability>
-	<generateCommonality>0</generateCommonality>
-	<generateAllowChance>0</generateAllowChance>		
+	<generateCommonality>1</generateCommonality>
+	<generateAllowChance>.7</generateAllowChance>		
 	<graphicData>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <apparel>
 	  <bodyPartGroups>
-	    <li>Eyes</li>
+	    <li>Mouth</li>
 	  </bodyPartGroups>
 	  <layers>
 	   <li>Overhead</li>
@@ -133,8 +133,8 @@
   <ThingDef Name="JDSFrontierHeadgearBase" ParentName="JDSArmorHelmetBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
 	<tradeability>All</tradeability>
-	<generateCommonality>0</generateCommonality>
-	<generateAllowChance>0</generateAllowChance>		
+	<generateCommonality>1</generateCommonality>
+	<generateAllowChance>0.5</generateAllowChance>		
 	<graphicData>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
@@ -145,9 +145,9 @@
 	  <layers>
 	   <li>Overhead</li>
 	  </layers>
-	  <tags>
+	  <!--tags>
 		<li>MilitaryHeadgear</li>
-	  </tags>
+	  </tags-->
 	  <defaultOutfitTags>
 		<li>Soldier</li>
 	  </defaultOutfitTags>
@@ -162,8 +162,8 @@
   <ThingDef Name="JDSFrontierArmorVestBase" ParentName="JDSApparelBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
 	<tradeability>All</tradeability>
-	<generateCommonality>0</generateCommonality>
-	<generateAllowChance>0</generateAllowChance>
+	<generateCommonality>1</generateCommonality>
+	<generateAllowChance>0.5</generateAllowChance>
 	<graphicData>
       <graphicClass>Graphic_Single</graphicClass>	
     </graphicData>	
@@ -181,9 +181,9 @@
 	  <layers>
 		<li>Middle</li>			
 	  </layers>
-	  <tags>
+	  <!--tags>
 		<li>MilitaryArmor</li>
-	  </tags>
+	  </tags-->
 	  <defaultOutfitTags>
 		<li>Soldier</li>
 	  </defaultOutfitTags>
@@ -201,8 +201,8 @@
   <ThingDef Name="JDSFrontierChestRigBase" ParentName="JDSApparelBase" Abstract="True">
 	<techLevel>Industrial</techLevel> 
 	<tradeability>All</tradeability>
-	<generateCommonality>0</generateCommonality>
-	<generateAllowChance>0</generateAllowChance>
+	<generateCommonality>1</generateCommonality>
+	<generateAllowChance>.8</generateAllowChance>
 	<graphicData>
       <graphicClass>Graphic_Single</graphicClass>	
     </graphicData>	
@@ -214,9 +214,9 @@
 	  <layers>
 		<li>Shell</li>			
 	  </layers>
-	  <tags>
+	  <!--tags>
 		<li>MilitaryArmor</li>
-	  </tags>
+	  </tags-->
 	  <defaultOutfitTags>
 		<li>Soldier</li>
 	  </defaultOutfitTags>
@@ -236,7 +236,7 @@
 	<tradeability>All</tradeability>
 	<generateCommonality>0</generateCommonality>
 	<generateAllowChance>0</generateAllowChance>  
-	<resourceReadoutPriority>Middle</resourceReadoutPriority>	
+	<resourceReadoutPriority>First</resourceReadoutPriority>	
 	<graphicData>
       <graphicClass>Graphic_Single</graphicClass>	
     </graphicData>		
@@ -253,9 +253,9 @@
       <layers>
         <li>Belt</li>
       </layers>
-      <tags>
+      <!-- tags>
         <li>MilitaryBackpack</li>
-      </tags>
+      </tags -->
 	  	  <defaultOutfitTags>
 		<li>Soldier</li>
 	  </defaultOutfitTags>

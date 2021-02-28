@@ -15,7 +15,8 @@
     <apparel>
 	  <wornGraphicPath>Things/FaceMask/Balaclava/Balaclava</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+    	<li>EFT_HeadWears</li>
+	    <li>EFT_ScavsRaiderGear</li>				
 	  </tags>
     </apparel>	
     <statBases>
@@ -30,9 +31,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>EFT_HeadWears</li>
-	  <li>EFT_ScavsRaiderGear</li>	  
+	<thingCategories>  
 	</thingCategories>
   </ThingDef>
   
@@ -50,7 +49,8 @@
     <apparel>
 	  <wornGraphicPath>Things/FaceMask/Balaclava2_Mask/Balaclava2_Mask</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>EFT_HeadWears</li>
+	    <li>EFT_ScavsRaiderGear</li>  			
 	  </tags>
     </apparel>	
     <statBases>
@@ -65,9 +65,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>EFT_HeadWears</li>
-	  <li>EFT_ScavsRaiderGear</li>	  
+	<thingCategories>  
 	</thingCategories>	
   </ThingDef>  
   
@@ -85,7 +83,8 @@
     <apparel>
 	  <wornGraphicPath>Things/FaceMask/Balaclava3_Mask/Balaclava3_Mask</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>EFT_HeadWears</li>
+	    <li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -100,9 +99,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>EFT_HeadWears</li>
-	  <li>EFT_ScavsRaiderGear</li>	  
+	<thingCategories> 
 	</thingCategories>	
   </ThingDef>    
   
@@ -120,7 +117,8 @@
     <apparel>
 	  <wornGraphicPath>Things/FaceMask/Balaclava4_Mask/Balaclava4_Mask</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>EFT_HeadWears</li>
+	    <li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -135,9 +133,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>EFT_HeadWears</li>
-	  <li>EFT_ScavsRaiderGear</li>	  
+	<thingCategories>  
 	</thingCategories>	
   </ThingDef>    
 
@@ -155,7 +151,8 @@
     <apparel>
 	  <wornGraphicPath>Things/FaceMask/Balaclava5_Mask/Balaclava5_Mask</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>JDS_EFT_HeadWears</li>
+	    <li>EFT_ScavsRaiderGear</li>				
 	  </tags>
     </apparel>	
     <statBases>
@@ -171,8 +168,6 @@
     <equippedStatOffsets>
 	</equippedStatOffsets>	
 	<thingCategories>
-	  <li>JDS_EFT_HeadWears</li>
-	  <li>EFT_ScavsRaiderGear</li>	  
 	</thingCategories>	
   </ThingDef>    
   
@@ -190,7 +185,8 @@
     <apparel>
 	  <wornGraphicPath>Things/FaceMask/Balaclava6_Mask/Balaclava6_Mask</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>JDS_EFT_HeadWears</li>
+	    <li>EFT_ScavsRaiderGear</li>	 			
 	  </tags>
     </apparel>	
     <statBases>
@@ -206,8 +202,6 @@
     <equippedStatOffsets>
 	</equippedStatOffsets>	
 	<thingCategories>
-	  <li>JDS_EFT_HeadWears</li>
-	  <li>EFT_ScavsRaiderGear</li>	  
 	</thingCategories>	
   </ThingDef>      
   
@@ -225,7 +219,8 @@
     <apparel>
 	  <wornGraphicPath>Things/FaceMask/Balaclava7_Mask/Balaclava7_Mask</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>JDS_EFT_HeadWears</li>
+  	    <li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -240,9 +235,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>JDS_EFT_HeadWears</li>
-	  <li>EFT_ScavsRaiderGear</li>	  
+	<thingCategories>	  
 	</thingCategories>	
   </ThingDef>        
   
@@ -250,7 +243,7 @@
 	================= Army Cap =====================
 	===============================================-->	
 
-  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headwear_Army_Cap</defName>
 	<label>Army Cap</label>
 	<description>"Military cap."</description>
@@ -260,7 +253,9 @@
     <apparel>
 	  <wornGraphicPath>Things/Headwear/Army_Cap/Army_Cap</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>JDS_EFT_HeadWears</li>
+	    <li>EFT_ScavsGear</li>	
+	    <li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -276,10 +271,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>JDS_EFT_HeadWears</li>
-	  <li>EFT_ScavsGear</li>	
-	  <li>EFT_ScavsRaiderGear</li>	  
+	<thingCategories>  
 	</thingCategories>	
   </ThingDef>     
   
@@ -287,7 +279,7 @@
 	============= Baseball_Cap_Black =================
 	===============================================-->	
 
-  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headwear_Baseball_Cap_Black</defName>
 	<label>Baseball Cap (Black)</label>
 	<description>"baseball cap."</description>
@@ -297,7 +289,9 @@
     <apparel>
 	  <wornGraphicPath>Things/Headwear/Baseball_Cap_Black/Baseball_Cap_Black</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>JDS_EFT_HeadWears</li>
+	    <li>EFT_ScavsGear</li>	
+	    <li>EFT_ScavsRaiderGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -313,10 +307,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>JDS_EFT_HeadWears</li>
-	  <li>EFT_ScavsGear</li>	
-	  <li>EFT_ScavsRaiderGear</li>	  
+	<thingCategories>  
 	</thingCategories>	
   </ThingDef>     
   
@@ -324,7 +315,7 @@
 	============= Baseball_Cap_Green =================
 	===============================================-->	
 
-  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headwear_Baseball_Cap_Green</defName>
 	<label>Baseball Cap (Green)</label>
 	<description>"baseball cap."</description>
@@ -334,7 +325,9 @@
     <apparel>
 	  <wornGraphicPath>Things/Headwear/Baseball_Cap_Green/Baseball_Cap_Green</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>JDS_EFT_HeadWears</li>
+	    <li>EFT_ScavsGear</li>	 
+	    <li>EFT_ScavsRaiderGear</li>				
 	  </tags>
     </apparel>	
     <statBases>
@@ -350,10 +343,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>JDS_EFT_HeadWears</li>
-	  <li>EFT_ScavsGear</li>	 
-	  <li>EFT_ScavsRaiderGear</li>	  
+	<thingCategories> 
 	</thingCategories>	
   </ThingDef>       
   
@@ -361,7 +351,7 @@
 	============= Baseball_Cap_Tan =================
 	===============================================-->	
 
-  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headwear_Baseball_Cap_Tan</defName>
 	<label>Baseball Cap (Tan)</label>
 	<description>"baseball cap."</description>
@@ -371,7 +361,9 @@
     <apparel>
 	  <wornGraphicPath>Things/Headwear/Baseball_Cap_Ten/Baseball_Cap_Tan</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>JDS_EFT_HeadWears</li>
+	    <li>EFT_ScavsGear</li>	  
+	    <li>EFT_ScavsRaiderGear</li>	 		
 	  </tags>
     </apparel>	
     <statBases>
@@ -387,10 +379,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>JDS_EFT_HeadWears</li>
-	  <li>EFT_ScavsGear</li>	  
-	  <li>EFT_ScavsRaiderGear</li>	  
+	<thingCategories>  
 	</thingCategories>	
   </ThingDef>   
   
@@ -398,7 +387,7 @@
 	============= Beanie =================
 	===============================================-->	
 
-  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headwear_Beanie</defName>
 	<label>Beanie</label>
 	<description>"Warm knitted hat, traditionally made for skiers but worn by everyone."</description>
@@ -408,7 +397,8 @@
     <apparel>
 	  <wornGraphicPath>Things/Headwear/Beanie/Beanie</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>JDS_EFT_HeadWears</li>
+	    <li>EFT_ScavsGear</li>			
 	  </tags>
     </apparel>	
     <statBases>
@@ -423,9 +413,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>JDS_EFT_HeadWears</li>
-	  <li>EFT_ScavsGear</li>	  
+	<thingCategories>  
 	</thingCategories>	
   </ThingDef>     
   
@@ -433,7 +421,7 @@
 	============= Ushanka_Cap =================
 	===============================================-->	
 
-  <ThingDef ParentName="JDSFrontierFaceMaskBase">
+  <ThingDef ParentName="JDSFrontierHeadgearBase">
 	<defName>JDSTarkov_Headwear_Ushanka_Cap</defName>
 	<label>Ushanka Cap</label>
 	<description>"A classic headdress of a Russian person, as most people from other countries think."</description>
@@ -443,7 +431,8 @@
     <apparel>
 	  <wornGraphicPath>Things/Headwear/Ushanka_Cap/Ushanka_Cap</wornGraphicPath>
 	  <tags>
-		<li>...</li>			
+	    <li>JDS_EFT_HeadWears</li>
+	    <li>EFT_ScavsGear</li>	 		
 	  </tags>
     </apparel>	
     <statBases>
@@ -458,9 +447,7 @@
     </statBases>
     <equippedStatOffsets>
 	</equippedStatOffsets>	
-	<thingCategories>
-	  <li>JDS_EFT_HeadWears</li>
-	  <li>EFT_ScavsGear</li>	  
+	<thingCategories>  
 	</thingCategories>	
   </ThingDef>       
   

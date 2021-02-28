@@ -1163,7 +1163,7 @@
       <texPath>Things/Headgear/Maska_1Sch_Helmet/Maska_1Sch_Helmet_UI</texPath>
     </graphicData>
     <apparel>
-	  <wornGraphicPath>Things/Headgear/Maska_1Sch_Helmet/Maska_1Sch_Helmet_UI</wornGraphicPath>
+	  <wornGraphicPath>Things/Headgear/Maska_1Sch_Helmet/Maska_1Sch_Helmet</wornGraphicPath>
 	  <tags>
 		<li>EFT_Headgear</li>			
 		<li>EFT_ArmorClass4</li>
